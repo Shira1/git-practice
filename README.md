@@ -1,1 +1,2 @@
-# git-practice
+ב# git-practice
+This is my first Git project.
